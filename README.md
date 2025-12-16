@@ -1,3 +1,13 @@
+<!-- 
+  🎯 CUSTOMIZATION GUIDE:
+  - Update the title and tagline to match your professional brand
+  - Replace LinkedIn URL with your actual LinkedIn profile
+  - Update email, Twitter, and Portfolio links in the "Let's Connect" section
+  - Customize the "About Me" section with your specific goals and experience
+  - Adjust the technical skills badges to match your actual skillset
+  - All GitHub stats will automatically reflect your ujyllinhybbu profile
+-->
+
 <div align="center">
   <h1>👋 Hi, I'm ujyllinhybbu</h1>
   <h3>Software Developer | Problem Solver | Tech Enthusiast</h3>
@@ -87,6 +97,7 @@ I'm a dedicated software developer with a passion for creating efficient, mainta
 
 I'm always interested in connecting with fellow developers, potential employers, and collaborators. Feel free to reach out!
 
+<!-- 💡 Update these links with your actual contact information -->
 <div align="center">
   
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ujyllinhybbu@example.com)
