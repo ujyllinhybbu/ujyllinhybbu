@@ -63,10 +63,4 @@ Deep learning model for digit classification
 * LinkedIn: https://www.linkedin.com/in/seong-mok-lee/
 * Email: kongdong99@gmail.com
 
----
-
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME)
+--
